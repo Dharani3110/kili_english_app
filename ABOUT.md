@@ -1,0 +1,1 @@
+Kili English Learning App is a modern, interactive python desktop application for practicing and improving English conversation skills. It leverages OpenAI APIs for real-time chat, grammar feedback, vocabulary enhancement, and personalized quizzes, all within a beautiful PyQt-based interface.
